@@ -10,7 +10,6 @@ def Descending_Order(num):
 
 
 # tests:
-
 print(Descending_Order(0)) #0
 print(Descending_Order(15)) #51
 print(Descending_Order(123456789)) #987654321
