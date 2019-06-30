@@ -1,6 +1,5 @@
-// in an array:
-// - a and b are the first two numbers 
-// - n represents the nth term
+// TECHNIQUES USED:
+// while loop, memoization, multiple arguments
 
 let fib = (a, b, n) => {
   count = 0
@@ -15,3 +14,7 @@ let fib = (a, b, n) => {
 
 console.log(fib(0, 1, 10)) //34
 console.log(fib(3, 5, 3)) //8
+
+// in an array:
+// - a and b are the first two numbers 
+// - n represents the nth term
