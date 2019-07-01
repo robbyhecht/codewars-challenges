@@ -1,5 +1,5 @@
-# Your task is to make a function that can take any non-negative integer as a argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
-
+# TECHNIQUES USED:
+# str, sorted with reverse, join, int
 
 def Descending_Order(num):
   num = str(num)  #make number into a string (integers are not iterable)
@@ -13,3 +13,6 @@ def Descending_Order(num):
 print(Descending_Order(0)) #0
 print(Descending_Order(15)) #51
 print(Descending_Order(123456789)) #987654321
+
+
+# Your task is to make a function that can take any non-negative integer as a argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.

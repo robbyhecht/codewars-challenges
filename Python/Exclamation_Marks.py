@@ -1,5 +1,5 @@
-# Remove n exclamation marks in the sentence from left to right. n is positive integer.
-
+# TECHNIQUES USED:
+# for in loop, conditionals, append, join
 
 def remove(s, n): # s is a list, n is a counter
     result = []
@@ -23,3 +23,5 @@ print(remove("!!Hi!!!", 4)) #Hi!
 print(remove("!Hi!!", 1)) #Hi!!
 print(remove("!!!!!Hi hi hi! hi!", 7)) #Hi hi hi hi
 print(remove("Hi!!", 2)) #Hi
+
+# Remove n exclamation marks in the sentence from left to right. n is positive integer.
