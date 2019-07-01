@@ -12,3 +12,5 @@ def monkey_count(n):
 # As a good parent, you will sit and count with him. Given the number (n), populate an array with all numbers up to and including that number, but excluding zero.
 # For example, if n = 10:
 # return [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# (8)
