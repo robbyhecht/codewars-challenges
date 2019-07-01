@@ -1,7 +1,6 @@
 // TECHNIQUES USED:
 // split, for loop, conditionals
 
-
 function iqTest(numbers) {
   //   make into an array
   numbers = numbers.split(" ")

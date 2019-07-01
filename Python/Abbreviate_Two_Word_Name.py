@@ -1,7 +1,5 @@
-# Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
-# The output should be two capital letters with a dot seperating them.
-# It should look like this:
-# Sam Harris => S.H  Patrick Feeney => P.F
+# TECHNIQUES USED:
+# upper, index
 
 
 def abbrevName(name):
@@ -17,3 +15,8 @@ print(abbrevName("patrick Feenan")); #"P.F"
 print(abbrevName("Evan cole")); #"E.C"
 print(abbrevName("P Favuzzi")); #"P.F"
 print(abbrevName("david mendieta")); #D.M"
+
+# Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
+# The output should be two capital letters with a dot seperating them.
+# It should look like this:
+# Sam Harris => S.H  Patrick Feeney => P.F
