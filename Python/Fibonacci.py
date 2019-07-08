@@ -1,3 +1,6 @@
+# // TECHNIQUES USED:
+# // while loop, memoization, multiple arguments, recursion
+
 def fib(a, b, n):
     """
     This fibonacci function allows the user to input:
