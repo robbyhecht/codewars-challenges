@@ -1,3 +1,6 @@
+# TECHNIQUES USED:
+# for loop, conditionals, type, int, append, max/min, range
+
 def find_2nd_largest(arr):
     newArr = [] # make an empty list
     for num in arr:

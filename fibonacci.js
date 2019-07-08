@@ -1,5 +1,5 @@
 // TECHNIQUES USED:
-// while loop, memoization, multiple arguments
+// while loop, memoization, multiple arguments, recursion
 
 let fib = (a, b, n) => {
   count = 0
